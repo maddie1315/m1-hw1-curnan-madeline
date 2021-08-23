@@ -5,3 +5,19 @@ li,
 p {
     font-family: 'Montserrat', sans-serif;
 }
+
+body {
+    background-color: aliceblue;
+    text-align: center;
+    padding-top: 2%;
+}
+
+nav ul li {
+    list-style-type: none;
+}
+
+nav, 
+main, 
+footer {
+    padding-top: 1%;
+}
